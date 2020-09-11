@@ -1,1 +1,1 @@
-This is the index.md file
+The Sales Scrum Project and is intended to capture information both about the scrum-based sales management process as well as how it is applied. It also contains practices for account planning and prospecting including information about specific accounts, personas, and verticals within the account.
